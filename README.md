@@ -1,6 +1,7 @@
-#VPN ban Bypass 
+# VPN ban Bypass 
 This script can help you that when your ip has filtred , in 3 second your ip behind of cloudflare subdomain be change
-#How ?
+
+# How ?
 
 In these code at line of 149 you should set your vpn IPS (It to mean of this that you should get any ips for your vps) 
 And set your cloudflare api , zoneid , email , domain on code
